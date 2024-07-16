@@ -1,5 +1,4 @@
-# gurw33.github.io
-
+# GNDEC experience 
 # My Experience at Guru Nanak Dev Engineering College
 
 My time at Guru Nanak Dev Engineering College (GNDEC) has been really great so far. The induction program, especially, was very helpful for new students like me.
