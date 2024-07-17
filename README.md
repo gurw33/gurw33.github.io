@@ -6,7 +6,7 @@ My time at Guru Nanak Dev Engineering College (GNDEC) has been really great so f
 # Day 1: Inspiring Talks
 
 The first day of the induction program was filled with talks from various speakers. They shared their experiences and gave us advice on what to focus on during our college years. These sessions helped us gain more knowledge and see things from different perspectives# Day 2: Classes and Meeting Seniors
-# Day2
+# Day2 Classes and meeting with seniors
 On the second day, we had two important sessions:
 1. **Universal Human Values (UHV)**: This class taught us about important values and ethics.
 2. **Peer Interaction with Seniors**: We met with our seniors, who shared their experiences and gave us tips on how to handle college life.
